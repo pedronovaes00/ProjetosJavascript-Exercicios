@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+body {
+    padding: 200px;
+    background: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh ;
+    background: -webkit-linear-gradient(to right, rgb(43, 116, 92), rgb(30, 109, 83));
+}
+
+.form{
+    width: 500px;
+    padding: 6px;
+}
+
+input{
+    width: 100%;
+    padding: 6px;
+    outline: none;
+    border: 10px;
+    margin: 6px 0px;
+}
+
+#btn{
+    width: 150px;
+    padding: 6px;
+    cursor: pointer;
+}

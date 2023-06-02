@@ -1,0 +1,23 @@
+Variavés possiveis no javascript
+
+1 - VAR ;
+
+<script>
+
+var x - 5;
+var y - 6;
+var z - x + y;
+
+document.getElementeById('demo'),innerHTML - "the value of z is:" + z;
+
+</script>
+
+2 - LET;
+
+3 - Cosntant;
+
+4 - Não usando nada(no caso as não delcaradas);
+
+If else : se e senão do viasualG
+
+

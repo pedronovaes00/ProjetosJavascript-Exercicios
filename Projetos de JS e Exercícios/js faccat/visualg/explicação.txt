@@ -1,0 +1,36 @@
+LAÇOS DE REPETIÇÕES:
+
+ENQUANTO( o texto é no ínicio, ,Termina no "fimenquanto", ele só vai repetir o código até ele for verdadeiro)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ REPITA(o texto começa pelo fim, mesmo que ee seja verdadeiro ele vai repitir ao menos uma vez), tendo seu fim no "ATÉ".
+
+
+
+
+
+
+
+
+
+
+ PARA( Para só repete o código até ele ser verdadeiro, como o enquanto) 
+
+
+
+
+para(codigo que ira fazer o programa repetir) contadora(nome de uma variável) de(continuação do codigo) 100 ate(quantidades de vezes de onde ele vai poder chegar)1 passo(quantidade a se somar) 1 faca
+escreval(contador)
+fimpara
